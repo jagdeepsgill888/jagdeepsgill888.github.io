@@ -1,0 +1,13 @@
+{
+  "name": "portfolio-website-template-edit-your-portfolio-and-get-your-website-live-community",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "dev": "diy-pwa dev",
+    "start": "diy-pwa dev"
+  },
+  "devDependencies": {
+    "diy-pwa": "latest"
+  }
+}
